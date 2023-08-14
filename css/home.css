@@ -31,7 +31,7 @@ main{
 }
 
 footer{
-    background-color: #aed8ff;
+    background-color: black;
     padding: 20px 40px;
     display: flex;
     justify-content: space-around;
